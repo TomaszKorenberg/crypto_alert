@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crypto_alert/static/css/main.264e3b74.css",
+    "main.js": "/crypto_alert/static/js/main.69510e57.js",
+    "index.html": "/crypto_alert/index.html",
+    "main.264e3b74.css.map": "/crypto_alert/static/css/main.264e3b74.css.map",
+    "main.69510e57.js.map": "/crypto_alert/static/js/main.69510e57.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.264e3b74.css",
+    "static/js/main.69510e57.js"
+  ]
+}
